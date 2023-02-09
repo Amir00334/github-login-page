@@ -1,0 +1,98 @@
+body{
+    text-align: center;
+}
+
+.git-logo{
+    width: 48px;
+    height: 48px;
+    margin-top: 25px;
+}
+
+.welcome{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.user-box{
+    width: 308px;
+    height: 220px;
+    border: 1px solid gray;
+    margin: 16px 0px 0px 0px;
+    padding: 16px 16px 16px 16px;
+    border-radius: 15px;
+    background-color: #F6F8FA;
+    display: block;
+    cursor: pointer;
+    position: relative;
+    margin-left: 500px;
+    display: flex;
+    flex-direction: column;
+}
+
+.user{
+    border: 1px solid lightgray;
+    height: 32px;
+    width: 274px;
+    display: block;
+    border-radius: 16px;
+    margin: 4px 0px 16px 0px;
+    padding: 5px 12px 5px 12px;
+    display: block;
+    cursor: pointer;
+}
+
+.pass{
+    border: 1px solid lightgray;
+    height: 32px;
+    width: 274px;
+    display: block;
+    border-radius: 16px;
+    margin: 4px 0px 16px 0px;
+    padding: 5px 12px 5px 12px;
+    display: block;
+    cursor: pointer;
+}
+
+.forgot{
+    margin-bottom: 15px;
+}
+
+.btn{
+    background-color: #2DA44E;
+    height: 32px;
+    border-radius: 16px;
+    width: 300px;
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding-top: 2px;
+    display: block;
+    margin: 16px 0px 0px 0px;
+    padding: 5px 16px 5px 16px;
+}
+
+.user-text{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.pass-text{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.newtogit{
+    margin-top: 56px;
+    width: 308px;
+    height: 55px;
+    background-color: lightgray;
+    display: flex;
+    margin-left: 500px;
+    border-radius: 16px;
+    padding-left: 25px;
+    display: block;
+    padding-top: 2px;
+    padding-bottom: 5px;
+    padding-right: 16px;
+}
+
+.new-to-git{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
